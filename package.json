@@ -1,0 +1,27 @@
+{
+  "name": "quandlAPItest",
+  "version": "0.0.0",
+  "description": "api test",
+  "main": "app.js",
+  "dependencies": {
+    "cli-table": "^0.3.0",
+    "quandl": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffscottward/quandlAPItest.git"
+  },
+  "keywords": [
+    "quandl"
+  ],
+  "author": "jeffscottward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffscottward/quandlAPItest/issues"
+  },
+  "homepage": "https://github.com/jeffscottward/quandlAPItest"
+}
